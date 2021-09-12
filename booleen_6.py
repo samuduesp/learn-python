@@ -8,5 +8,3 @@ True and True = True
 True and False = False
 False and False = False #and both
 False and True = False
-
-test
